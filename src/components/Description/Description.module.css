@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  margin-top: 20px;
+}
+
+.paragraf {
+  font-size: 25px;
+  margin-top: 0;
+}
